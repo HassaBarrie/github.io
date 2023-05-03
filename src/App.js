@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+import logo from './HassaBarrie.png';
 
 import './App.css';
-/*import './HassaBarrie.jpg';*/
+
 
 
 function App() {
