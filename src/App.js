@@ -2,8 +2,6 @@ import logo from './HassaBarrie.png';
 
 import './App.css';
 
-
-
 function App() {
   return (
     <div className="App">
@@ -14,11 +12,11 @@ function App() {
         </p>My name is Hassanatou Barrie and I'm going to master React!
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/HassaBarrie"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Check Me Out!
         </a>
       </header>
     </div>
